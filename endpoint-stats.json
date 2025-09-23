@@ -4,7 +4,15 @@
     "name": "Placeholder",
     "endpoint": 0,
     "error": 0,
-    "total_endpoint": 0,
+    "total_endpoint": 3,
+    "total_error": 0
+  },
+  {
+    "path": "/api/status",
+    "name": "Status",
+    "endpoint": 3,
+    "error": 0,
+    "total_endpoint": 3,
     "total_error": 0
   }
 ]
