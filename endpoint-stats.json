@@ -4,7 +4,7 @@
     "name": "Placeholder",
     "endpoint": 0,
     "error": 0,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -12,7 +12,7 @@
     "name": "Status",
     "endpoint": 3,
     "error": 0,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -20,7 +20,7 @@
     "name": "Settings",
     "endpoint": 2,
     "error": 0,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -28,7 +28,7 @@
     "name": "Tinyurl",
     "endpoint": 6,
     "error": 0,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -36,7 +36,7 @@
     "name": "Hitamkan",
     "endpoint": 0,
     "error": 2,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -44,7 +44,7 @@
     "name": "ToAnime",
     "endpoint": 0,
     "error": 2,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -52,7 +52,7 @@
     "name": "Notifications",
     "endpoint": 1,
     "error": 0,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -60,7 +60,7 @@
     "name": "Qr Scan",
     "endpoint": 0,
     "error": 2,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
@@ -68,15 +68,15 @@
     "name": "Emoji",
     "endpoint": 0,
     "error": 2,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   },
   {
     "path": "/api/tools/cekgempa",
     "name": "Cekgempa",
-    "endpoint": 487,
+    "endpoint": 491,
     "error": 0,
-    "total_endpoint": 499,
+    "total_endpoint": 503,
     "total_error": 8
   }
 ]
