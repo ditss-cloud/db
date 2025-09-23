@@ -4,47 +4,63 @@
     "name": "Placeholder",
     "endpoint": 0,
     "error": 0,
-    "total_endpoint": 10,
-    "total_error": 4
+    "total_endpoint": 11,
+    "total_error": 6
   },
   {
     "path": "/api/status",
     "name": "Status",
     "endpoint": 3,
     "error": 0,
-    "total_endpoint": 10,
-    "total_error": 4
+    "total_endpoint": 11,
+    "total_error": 6
   },
   {
     "path": "/api/settings",
     "name": "Settings",
     "endpoint": 1,
     "error": 0,
-    "total_endpoint": 10,
-    "total_error": 4
+    "total_endpoint": 11,
+    "total_error": 6
   },
   {
     "path": "/api/tools/tinyurl",
     "name": "Tinyurl",
     "endpoint": 6,
     "error": 0,
-    "total_endpoint": 10,
-    "total_error": 4
+    "total_endpoint": 11,
+    "total_error": 6
   },
   {
     "path": "/api/maker/hitamkan",
     "name": "Hitamkan",
     "endpoint": 0,
     "error": 2,
-    "total_endpoint": 10,
-    "total_error": 4
+    "total_endpoint": 11,
+    "total_error": 6
   },
   {
     "path": "/api/maker/toAnime",
     "name": "ToAnime",
     "endpoint": 0,
     "error": 2,
-    "total_endpoint": 10,
-    "total_error": 4
+    "total_endpoint": 11,
+    "total_error": 6
+  },
+  {
+    "path": "/api/notifications",
+    "name": "Notifications",
+    "endpoint": 1,
+    "error": 0,
+    "total_endpoint": 11,
+    "total_error": 6
+  },
+  {
+    "path": "/api/tools/qr-scan",
+    "name": "Qr Scan",
+    "endpoint": 0,
+    "error": 2,
+    "total_endpoint": 11,
+    "total_error": 6
   }
 ]
