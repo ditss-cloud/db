@@ -74,10 +74,10 @@
   {
     "path": "/api/tools/cekgempa",
     "name": "Cekgempa",
-    "endpoint": 10273,
+    "endpoint": 10513,
     "error": 0,
     "total_endpoint": null,
     "total_error": null,
-    "sukses": 3070
+    "sukses": 3310
   }
 ]
