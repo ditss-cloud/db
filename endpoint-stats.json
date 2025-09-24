@@ -1,8 +1,80 @@
 [
   {
+    "path": "/placeholder",
+    "name": "Placeholder",
+    "endpoint": 0,
+    "error": 0,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/status",
+    "name": "Status",
+    "endpoint": 3,
+    "error": 0,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/settings",
+    "name": "Settings",
+    "endpoint": 2,
+    "error": 0,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/tools/tinyurl",
+    "name": "Tinyurl",
+    "endpoint": 6,
+    "error": 0,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/maker/hitamkan",
+    "name": "Hitamkan",
+    "endpoint": 0,
+    "error": 2,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/maker/toAnime",
+    "name": "ToAnime",
+    "endpoint": 0,
+    "error": 2,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/notifications",
+    "name": "Notifications",
+    "endpoint": 1,
+    "error": 0,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/tools/qr-scan",
+    "name": "Qr Scan",
+    "endpoint": 0,
+    "error": 2,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
+    "path": "/api/tools/emoji",
+    "name": "Emoji",
+    "endpoint": 0,
+    "error": 2,
+    "total_endpoint": null,
+    "total_error": null
+  },
+  {
     "path": "/api/tools/cekgempa",
     "name": "Cekgempa",
-    "endpoint": 2163,
+    "endpoint": 2403,
     "error": 0,
     "total_endpoint": null,
     "total_error": null,
