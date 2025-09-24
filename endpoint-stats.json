@@ -74,7 +74,7 @@
   {
     "path": "/api/tools/cekgempa",
     "name": "Cekgempa",
-    "endpoint": 4803,
+    "endpoint": 5047,
     "error": 0,
     "total_endpoint": null,
     "total_error": null,
