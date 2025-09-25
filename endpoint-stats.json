@@ -81,5 +81,14 @@
     "total_endpoint": null,
     "total_error": null,
     "sukses": 14744
+  },
+  {
+    "path": "/api/tools/detect-operator",
+    "name": "Detect Operator",
+    "endpoint": 53,
+    "miss": 4,
+    "sukses": 49,
+    "total_endpoint": null,
+    "total_error": null
   }
 ]
