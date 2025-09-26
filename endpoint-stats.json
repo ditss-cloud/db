@@ -10,10 +10,11 @@
   {
     "path": "/api/status",
     "name": "Status",
-    "endpoint": 3,
+    "endpoint": 7,
     "error": 0,
     "total_endpoint": null,
-    "total_error": null
+    "total_error": null,
+    "sukses": null
   },
   {
     "path": "/api/settings",
@@ -51,11 +52,11 @@
   {
     "path": "/api/notifications",
     "name": "Notifications",
-    "endpoint": 6,
+    "endpoint": 7,
     "error": 0,
     "total_endpoint": null,
     "total_error": null,
-    "sukses": 1
+    "sukses": 2
   },
   {
     "path": "/api/tools/qr-scan",
