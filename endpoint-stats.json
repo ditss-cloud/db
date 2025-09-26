@@ -1,95 +1,23 @@
 [
   {
-    "path": "/placeholder",
-    "name": "Placeholder",
-    "endpoint": 0,
-    "error": 0,
-    "total_endpoint": null,
-    "total_error": null
+    "path": "/api/maker/brat",
+    "name": "Brat",
+    "endpoint": 100,
+    "miss": 2,
+    "sukses": 98
   },
   {
-    "path": "/api/status",
-    "name": "Status",
-    "endpoint": 7,
-    "error": 0,
-    "total_endpoint": null,
-    "total_error": null,
-    "sukses": null
-  },
-  {
-    "path": "/api/settings",
-    "name": "Settings",
-    "endpoint": 14,
-    "error": 0,
-    "total_endpoint": null,
-    "total_error": null,
-    "sukses": 8
-  },
-  {
-    "path": "/api/tools/tinyurl",
-    "name": "Tinyurl",
+    "path": "/api/download/tiktok",
+    "name": "Tiktok",
     "endpoint": 6,
-    "error": 0,
-    "total_endpoint": null,
-    "total_error": null
-  },
-  {
-    "path": "/api/maker/hitamkan",
-    "name": "Hitamkan",
-    "endpoint": 0,
-    "error": 2,
-    "total_endpoint": null,
-    "total_error": null
-  },
-  {
-    "path": "/api/maker/toAnime",
-    "name": "ToAnime",
-    "endpoint": 0,
-    "error": 2,
-    "total_endpoint": null,
-    "total_error": null
-  },
-  {
-    "path": "/api/notifications",
-    "name": "Notifications",
-    "endpoint": 8,
-    "error": 0,
-    "total_endpoint": null,
-    "total_error": null,
-    "sukses": 3
-  },
-  {
-    "path": "/api/tools/qr-scan",
-    "name": "Qr Scan",
-    "endpoint": 0,
-    "error": 2,
-    "total_endpoint": null,
-    "total_error": null
-  },
-  {
-    "path": "/api/tools/emoji",
-    "name": "Emoji",
-    "endpoint": 0,
-    "error": 2,
-    "total_endpoint": null,
-    "total_error": null
-  },
-  {
-    "path": "/api/tools/cekgempa",
-    "name": "Cekgempa",
-    "endpoint": 22263,
-    "error": 0,
-    "total_endpoint": null,
-    "total_error": null,
-    "sukses": 15060
+    "miss": 1,
+    "sukses": 5
   },
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6610,
+    "endpoint": 6609,
     "miss": 4,
-    "sukses": 6606,
-    "total_endpoint": null,
-    "total_error": null
+    "sukses": 6605
   }
 ]
