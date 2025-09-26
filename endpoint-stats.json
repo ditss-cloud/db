@@ -76,18 +76,18 @@
   {
     "path": "/api/tools/cekgempa",
     "name": "Cekgempa",
-    "endpoint": 22243,
+    "endpoint": 22163,
     "error": 0,
     "total_endpoint": null,
     "total_error": null,
-    "sukses": 15040
+    "sukses": 14960
   },
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 2145,
+    "endpoint": 2462,
     "miss": 4,
-    "sukses": 2141,
+    "sukses": 2458,
     "total_endpoint": null,
     "total_error": null
   }
