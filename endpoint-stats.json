@@ -52,11 +52,11 @@
   {
     "path": "/api/notifications",
     "name": "Notifications",
-    "endpoint": 7,
+    "endpoint": 8,
     "error": 0,
     "total_endpoint": null,
     "total_error": null,
-    "sukses": 2
+    "sukses": 3
   },
   {
     "path": "/api/tools/qr-scan",
@@ -86,9 +86,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6579,
+    "endpoint": 6581,
     "miss": 4,
-    "sukses": 6575,
+    "sukses": 6577,
     "total_endpoint": null,
     "total_error": null
   }
