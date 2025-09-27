@@ -1,65 +1,9 @@
 [
   {
-    "path": "/api/maker/brat",
-    "name": "Brat",
-    "endpoint": 100,
-    "miss": 2,
-    "sukses": 98
-  },
-  {
-    "path": "/api/download/tiktok",
-    "name": "Tiktok",
-    "endpoint": 6,
-    "miss": 1,
-    "sukses": 5
-  },
-  {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 7491,
-    "miss": 4,
-    "sukses": 7487
-  },
-  {
-    "path": "/api/settings",
-    "name": "Settings",
-    "endpoint": 6,
-    "miss": 0,
-    "sukses": 6
-  },
-  {
-    "path": "/api/search/pinterest",
-    "name": "Pinterest",
     "endpoint": 2,
     "miss": 0,
     "sukses": 2
-  },
-  {
-    "path": "/api/search/playstore",
-    "name": "Playstore",
-    "endpoint": 2,
-    "miss": 0,
-    "sukses": 2
-  },
-  {
-    "path": "/api/game/asahotak",
-    "name": "Asahotak",
-    "endpoint": 4,
-    "miss": 4,
-    "sukses": 0
-  },
-  {
-    "path": "/api/stalk/github",
-    "name": "Github",
-    "endpoint": 6,
-    "miss": 0,
-    "sukses": 6
-  },
-  {
-    "path": "/api/notifications",
-    "name": "Notifications",
-    "endpoint": 4,
-    "miss": 0,
-    "sukses": 4
   }
 ]
