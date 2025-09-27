@@ -16,8 +16,8 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6667,
+    "endpoint": 6659,
     "miss": 4,
-    "sukses": 6663
+    "sukses": 6655
   }
 ]
