@@ -16,16 +16,16 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6971,
+    "endpoint": 6951,
     "miss": 4,
-    "sukses": 6967
+    "sukses": 6947
   },
   {
     "path": "/api/settings",
     "name": "Settings",
-    "endpoint": 2,
+    "endpoint": 4,
     "miss": 0,
-    "sukses": 2
+    "sukses": 4
   },
   {
     "path": "/api/search/pinterest",
