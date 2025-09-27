@@ -16,9 +16,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6999,
+    "endpoint": 7003,
     "miss": 4,
-    "sukses": 6995
+    "sukses": 6999
   },
   {
     "path": "/api/settings",
@@ -51,8 +51,8 @@
   {
     "path": "/api/stalk/github",
     "name": "Github",
-    "endpoint": 4,
+    "endpoint": 6,
     "miss": 0,
-    "sukses": 4
+    "sukses": 6
   }
 ]
