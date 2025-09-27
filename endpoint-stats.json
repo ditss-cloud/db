@@ -16,9 +16,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6965,
+    "endpoint": 6985,
     "miss": 4,
-    "sukses": 6961
+    "sukses": 6981
   },
   {
     "path": "/api/settings",
@@ -40,5 +40,12 @@
     "endpoint": 2,
     "miss": 0,
     "sukses": 2
+  },
+  {
+    "path": "/api/game/asahotak",
+    "name": "Asahotak",
+    "endpoint": 4,
+    "miss": 4,
+    "sukses": 0
   }
 ]
