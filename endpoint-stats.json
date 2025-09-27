@@ -16,8 +16,29 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6863,
+    "endpoint": 6881,
     "miss": 4,
-    "sukses": 6859
+    "sukses": 6877
+  },
+  {
+    "path": "/api/settings",
+    "name": "Settings",
+    "endpoint": 2,
+    "miss": 0,
+    "sukses": 2
+  },
+  {
+    "path": "/api/search/pinterest",
+    "name": "Pinterest",
+    "endpoint": 2,
+    "miss": 0,
+    "sukses": 2
+  },
+  {
+    "path": "/api/search/playstore",
+    "name": "Playstore",
+    "endpoint": 2,
+    "miss": 0,
+    "sukses": 2
   }
 ]
