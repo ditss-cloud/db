@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 2820,
+    "endpoint": 2856,
     "miss": 0,
-    "sukses": 2820
+    "sukses": 2856
   },
   {
     "path": "/api/maker/brat",
