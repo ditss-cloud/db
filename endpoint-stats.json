@@ -2,22 +2,22 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 2584,
+    "endpoint": 2608,
     "miss": 0,
-    "sukses": 2584
+    "sukses": 2608
   },
   {
     "path": "/api/settings",
     "name": "Settings",
-    "endpoint": 18,
+    "endpoint": 20,
     "miss": 0,
-    "sukses": 18
+    "sukses": 20
   },
   {
     "path": "/api/notifications",
     "name": "Notifications",
-    "endpoint": 10,
+    "endpoint": 14,
     "miss": 0,
-    "sukses": 10
+    "sukses": 14
   }
 ]
