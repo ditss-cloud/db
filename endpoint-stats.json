@@ -19,12 +19,5 @@
     "endpoint": 2,
     "miss": 0,
     "sukses": 2
-  },
-  {
-    "path": "/api/settings",
-    "name": "Settings",
-    "endpoint": 2,
-    "miss": 0,
-    "sukses": 2
   }
 ]
