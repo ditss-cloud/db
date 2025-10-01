@@ -30,9 +30,9 @@
   {
     "path": "/api/download/tiktok-v2",
     "name": "Tiktok V2",
-    "endpoint": 26,
+    "endpoint": 28,
     "miss": 0,
-    "sukses": 26
+    "sukses": 28
   },
   {
     "path": "/api/settings",
