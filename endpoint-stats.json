@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 3654,
+    "endpoint": 3658,
     "miss": 0,
-    "sukses": 3654
+    "sukses": 3658
   },
   {
     "path": "/api/ai/to-figure",
@@ -23,8 +23,8 @@
   {
     "path": "/api/maker/imessage",
     "name": "Imessage",
-    "endpoint": 6,
-    "miss": 6,
+    "endpoint": 8,
+    "miss": 8,
     "sukses": 0
   },
   {
