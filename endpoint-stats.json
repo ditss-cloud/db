@@ -2,8 +2,50 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
+    "endpoint": 3170,
+    "miss": 0,
+    "sukses": 3170
+  },
+  {
+    "path": "/api/ai/to-figure",
+    "name": "To Figure",
+    "endpoint": 2,
+    "miss": 2,
+    "sukses": 0
+  },
+  {
+    "path": "/api/search/youtube",
+    "name": "Youtube",
+    "endpoint": 14,
+    "miss": 2,
+    "sukses": 12
+  },
+  {
+    "path": "/api/maker/imessage",
+    "name": "Imessage",
+    "endpoint": 6,
+    "miss": 6,
+    "sukses": 0
+  },
+  {
+    "path": "/api/download/tiktok-v2",
+    "name": "Tiktok V2",
+    "endpoint": 28,
+    "miss": 0,
+    "sukses": 28
+  },
+  {
+    "path": "/api/settings",
+    "name": "Settings",
     "endpoint": 4,
     "miss": 0,
     "sukses": 4
+  },
+  {
+    "path": "/api/notifications",
+    "name": "Notifications",
+    "endpoint": 2,
+    "miss": 0,
+    "sukses": 2
   }
 ]
