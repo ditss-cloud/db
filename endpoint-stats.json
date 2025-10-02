@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 3856,
+    "endpoint": 3866,
     "miss": 0,
-    "sukses": 3856
+    "sukses": 3866
   },
   {
     "path": "/api/ai/to-figure",
