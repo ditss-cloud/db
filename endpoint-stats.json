@@ -9,8 +9,8 @@
   {
     "path": "/api/ai/to-figure",
     "name": "To Figure",
-    "endpoint": 2,
-    "miss": 2,
+    "endpoint": 4,
+    "miss": 4,
     "sukses": 0
   },
   {
