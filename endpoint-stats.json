@@ -23,16 +23,16 @@
   {
     "path": "/api/maker/imessage",
     "name": "Imessage",
-    "endpoint": 26,
-    "miss": 26,
+    "endpoint": 12,
+    "miss": 12,
     "sukses": 0
   },
   {
     "path": "/api/download/tiktok-v2",
     "name": "Tiktok V2",
-    "endpoint": 46,
+    "endpoint": 50,
     "miss": 0,
-    "sukses": 46
+    "sukses": 50
   },
   {
     "path": "/api/settings",
@@ -44,9 +44,9 @@
   {
     "path": "/api/notifications",
     "name": "Notifications",
-    "endpoint": 4,
+    "endpoint": 2,
     "miss": 0,
-    "sukses": 4
+    "sukses": 2
   },
   {
     "path": "/api/download/tiktok",
