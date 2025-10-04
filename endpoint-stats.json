@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 260,
+    "endpoint": 280,
     "miss": 0,
-    "sukses": 260
+    "sukses": 280
   },
   {
     "path": "/api/maker/imessage",
@@ -23,15 +23,15 @@
   {
     "path": "/api/download/ytmp3",
     "name": "Ytmp3",
-    "endpoint": 6,
-    "miss": 6,
+    "endpoint": 10,
+    "miss": 10,
     "sukses": 0
   },
   {
     "path": "/api/search/youtube",
     "name": "Youtube",
-    "endpoint": 4,
+    "endpoint": 8,
     "miss": 0,
-    "sukses": 4
+    "sukses": 8
   }
 ]
