@@ -2,15 +2,78 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 6,
+    "endpoint": 4506,
     "miss": 0,
-    "sukses": 6
+    "sukses": 4506
+  },
+  {
+    "path": "/api/ai/to-figure",
+    "name": "To Figure",
+    "endpoint": 4,
+    "miss": 4,
+    "sukses": 0
+  },
+  {
+    "path": "/api/search/youtube",
+    "name": "Youtube",
+    "endpoint": 16,
+    "miss": 2,
+    "sukses": 14
+  },
+  {
+    "path": "/api/maker/imessage",
+    "name": "Imessage",
+    "endpoint": 16,
+    "miss": 16,
+    "sukses": 0
   },
   {
     "path": "/api/download/tiktok-v2",
     "name": "Tiktok V2",
+    "endpoint": 60,
+    "miss": 0,
+    "sukses": 60
+  },
+  {
+    "path": "/api/settings",
+    "name": "Settings",
+    "endpoint": 4,
+    "miss": 0,
+    "sukses": 4
+  },
+  {
+    "path": "/api/notifications",
+    "name": "Notifications",
     "endpoint": 2,
     "miss": 0,
     "sukses": 2
+  },
+  {
+    "path": "/api/download/tiktok",
+    "name": "Tiktok",
+    "endpoint": 4,
+    "miss": 0,
+    "sukses": 4
+  },
+  {
+    "path": "/api/search/pinterest",
+    "name": "Pinterest",
+    "endpoint": 2,
+    "miss": 0,
+    "sukses": 2
+  },
+  {
+    "path": "/api/download/ytmp3",
+    "name": "Ytmp3",
+    "endpoint": 2,
+    "miss": 2,
+    "sukses": 0
+  },
+  {
+    "path": "/api/search/group",
+    "name": "Group",
+    "endpoint": 6,
+    "miss": 0,
+    "sukses": 6
   }
 ]
