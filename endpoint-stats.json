@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 310,
+    "endpoint": 332,
     "miss": 0,
-    "sukses": 310
+    "sukses": 332
   },
   {
     "path": "/api/maker/imessage",
