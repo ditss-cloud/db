@@ -72,8 +72,8 @@
   {
     "path": "/api/search/group",
     "name": "Group",
-    "endpoint": 4,
+    "endpoint": 2,
     "miss": 0,
-    "sukses": 4
+    "sukses": 2
   }
 ]
