@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 322,
+    "endpoint": 298,
     "miss": 0,
-    "sukses": 322
+    "sukses": 298
   },
   {
     "path": "/api/download/tiktok-v2",
