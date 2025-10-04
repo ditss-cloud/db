@@ -2,23 +2,23 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 388,
+    "endpoint": 386,
     "miss": 0,
-    "sukses": 388
+    "sukses": 386
   },
   {
     "path": "/api/maker/imessage",
     "name": "Imessage",
-    "endpoint": 6,
-    "miss": 6,
+    "endpoint": 8,
+    "miss": 8,
     "sukses": 0
   },
   {
     "path": "/api/download/tiktok-v2",
     "name": "Tiktok V2",
-    "endpoint": 4,
+    "endpoint": 6,
     "miss": 0,
-    "sukses": 4
+    "sukses": 6
   },
   {
     "path": "/api/download/ytmp3",
