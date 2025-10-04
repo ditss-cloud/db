@@ -5,12 +5,5 @@
     "endpoint": 82,
     "miss": 0,
     "sukses": 82
-  },
-  {
-    "path": "/api/maker/imessage",
-    "name": "Imessage",
-    "endpoint": 2,
-    "miss": 2,
-    "sukses": 0
   }
 ]
