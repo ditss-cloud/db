@@ -2,9 +2,9 @@
   {
     "path": "/api/tools/detect-operator",
     "name": "Detect Operator",
-    "endpoint": 430,
+    "endpoint": 450,
     "miss": 0,
-    "sukses": 430
+    "sukses": 450
   },
   {
     "path": "/api/download/tiktok-v2",
@@ -16,8 +16,8 @@
   {
     "path": "/api/maker/imessage",
     "name": "Imessage",
-    "endpoint": 6,
-    "miss": 6,
+    "endpoint": 8,
+    "miss": 8,
     "sukses": 0
   }
 ]
