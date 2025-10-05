@@ -16,9 +16,9 @@
   {
     "path": "/api/notifications",
     "name": "Notifications",
-    "endpoint": 2,
+    "endpoint": 4,
     "miss": 0,
-    "sukses": 2
+    "sukses": 4
   },
   {
     "path": "/api/download/tiktok-v2",
