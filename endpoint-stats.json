@@ -26,5 +26,12 @@
     "endpoint": 6,
     "miss": 0,
     "sukses": 6
+  },
+  {
+    "path": "/api/search/youtube",
+    "name": "Youtube",
+    "endpoint": 4,
+    "miss": 0,
+    "sukses": 4
   }
 ]
