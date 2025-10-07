@@ -9,8 +9,8 @@
   {
     "path": "/api/search/tiktok",
     "name": "Tiktok",
-    "endpoint": 3,
-    "miss": 1,
-    "sukses": 2
+    "endpoint": 8,
+    "miss": 2,
+    "sukses": 6
   }
 ]
