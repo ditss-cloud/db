@@ -2,16 +2,16 @@
   {
     "path": "/api/download/tiktok-v2",
     "name": "Tiktok V2",
-    "endpoint": 6,
+    "endpoint": 10,
     "miss": 0,
-    "sukses": 6
+    "sukses": 10
   },
   {
     "path": "/api/search/tiktok",
     "name": "Tiktok",
-    "endpoint": 19,
+    "endpoint": 23,
     "miss": 1,
-    "sukses": 18
+    "sukses": 22
   },
   {
     "path": "/api/ai/to-figure",
