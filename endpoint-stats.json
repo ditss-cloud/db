@@ -9,9 +9,9 @@
   {
     "path": "/api/search/tiktok",
     "name": "Tiktok",
-    "endpoint": 19,
+    "endpoint": 25,
     "miss": 1,
-    "sukses": 18
+    "sukses": 24
   },
   {
     "path": "/api/ai/to-figure",
