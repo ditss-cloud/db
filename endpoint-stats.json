@@ -12,5 +12,12 @@
     "endpoint": 8,
     "miss": 0,
     "sukses": 8
+  },
+  {
+    "path": "/api/settings",
+    "name": "Settings",
+    "endpoint": 2,
+    "miss": 0,
+    "sukses": 2
   }
 ]
