@@ -16,8 +16,8 @@
   {
     "path": "/api/settings",
     "name": "Settings",
-    "endpoint": 4,
+    "endpoint": 6,
     "miss": 0,
-    "sukses": 4
+    "sukses": 6
   }
 ]
