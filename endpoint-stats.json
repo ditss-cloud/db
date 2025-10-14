@@ -19,5 +19,12 @@
     "endpoint": 6,
     "miss": 0,
     "sukses": 6
+  },
+  {
+    "path": "/api/ai/to-figure",
+    "name": "To Figure",
+    "endpoint": 2,
+    "miss": 2,
+    "sukses": 0
   }
 ]
