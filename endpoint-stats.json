@@ -16,9 +16,9 @@
   {
     "path": "/api/settings",
     "name": "Settings",
-    "endpoint": 8,
+    "endpoint": 6,
     "miss": 0,
-    "sukses": 8
+    "sukses": 6
   },
   {
     "path": "/api/ai/to-figure",
