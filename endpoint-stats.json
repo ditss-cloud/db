@@ -2,9 +2,9 @@
   {
     "path": "/api/search/tiktok",
     "name": "Tiktok",
-    "endpoint": 24,
+    "endpoint": 26,
     "miss": 0,
-    "sukses": 24
+    "sukses": 26
   },
   {
     "path": "/api/download/tiktok-v2",
